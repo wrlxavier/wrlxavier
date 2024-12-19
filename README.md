@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Um cientista de dados buscando melhorar a cada dia!
+
 <!--
 **wrlxavier/wrlxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
