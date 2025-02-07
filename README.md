@@ -20,7 +20,5 @@ I’m a **Data Scientist** with a background in **Control and Automation Enginee
 ---
 
 ## 🤝 Let’s Connect!
+🌐 [**LinkedIn**](https://www.linkedin.com/in/warley-xavier-a8b8811b7/)  💻 [**GitHub**](https://github.com/wrlxavier)  
 
-🌐 [**LinkedIn**](https://www.linkedin.com/in/warley-xavier-a8b8811b7/) | 💻 [**GitHub**](https://github.com/wrlxavier)  
-
-> *"📊 Data is not just numbers; it's the story behind the numbers."*
