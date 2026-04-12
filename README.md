@@ -1,22 +1,12 @@
-# 👋 Hey, I'm Warley Xavier! 🚀
+# Hi, I'm Warley Xavier
 
-**🧠 Data Scientist | 🐍 Python | 🤖 Machine Learning | 🎓 Engineering Student at UFMG**
+_Data Scientist interested in turning data and machine learning into reliable, useful systems._
 
-I’m a **Data Scientist** with a background in **Control and Automation Engineering**, passionate about solving real-world problems using **Machine Learning**. I develop data-driven solutions, automation scripts, and interactive dashboards with hands-on experience in **Python**, **SQL**, and **JavaScript/TypeScript**.
+I mostly work with Python, SQL, FastAPI, and Docker, and I'm particularly interested in projects where machine learning can help solve real business problems. Alongside the modeling side, I also care about how software is structured and how systems can be built in a way that is clear, testable, and maintainable.
 
+## Featured project
 
-## 🛠️ Skills at a Glance
+**FastAPI Clean Architecture API**  
+One example of that mindset, especially from the software design and engineering side.
 
-| **Languages**     | **Tools & Frameworks** | **Focus Areas**               |
-|:------------------|:-----------------------|:------------------------------|
-| 🐍 Python         |    🔗 LangChain, LangGraph            | 🖥️ Machine Learning           |
-| 📊 SQL            |     ❇️ FastAPI        | 🧠 Deep Learning              |
-| ⚡ JS/TS   |       📈 Grafana, Streamlit    | ⚡ Process Automation          |
-| ✨ CSS, SASS   |     🗂️ Git & GitHub      |   📄 Python scripts        |
-|    |      ⚛️ React TS (basic)      |           |
-
-
-
-## 🤝 Let’s Connect!
-🌐 [**LinkedIn**](https://www.linkedin.com/in/warley-xavier-a8b8811b7/)  💻 [**GitHub**](https://github.com/wrlxavier)  
-
+[LinkedIn](https://www.linkedin.com/in/warley-xavier-a8b8811b7/) · [GitHub](https://github.com/wrlxavier)
