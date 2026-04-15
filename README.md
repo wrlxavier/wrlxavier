@@ -1,8 +1,6 @@
 # Hi, I'm Warley Xavier
 
-_Data Scientist interested in turning data and machine learning into reliable, useful systems._
-
-I mostly work with Python, SQL, FastAPI, and Docker, and I'm particularly interested in projects where machine learning can help solve real business problems. Alongside the modeling side, I also care about how software is structured and how systems can be built in a way that is clear, testable, and maintainable.
+AI Engineer focused on building reliable LLM and ML systems for real-world workflows. I work mainly with Python, FastAPI, SQL, Docker and production-oriented AI architectures, including multi-agent systems, RAG-based services and ML-enabled APIs. I’m especially interested in turning intelligent components into clear, testable and maintainable software that delivers business value.
 
 ## Featured project
 
