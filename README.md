@@ -4,7 +4,7 @@ AI Engineer building multi-agent systems and RAG pipelines for production, from 
 
 I design and ship LLM-based multi-agent systems (OpenAI SDK, LangGraph, LangChain) and backend services in Python/FastAPI following Clean Architecture, with Redis, Docker, and async processing. My focus is production-grade AI systems, reliable and testable, not just working in a demo.
 
-🔭 Currently building a classical RAG project (embeddings + similarity search) to complement the retrieval approach I've shipped professionally.
+🔭 Currently building a classical [RAG project](https://github.com/wrlxavier/insurance-claims-multiagent-rag) (embeddings + similarity search) to complement the retrieval approach I've shipped professionally.
 
 ## Featured project
 
