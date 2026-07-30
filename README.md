@@ -17,7 +17,7 @@ I design and ship LLM-based multi-agent systems (OpenAI SDK, LangGraph, LangChai
   <div>
     <picture><img width="34" height="34" src="./assets/connection.gif"></picture>
     <a href="https://github.com/wrlxavier/insurance-claims-multiagent-rag" taget="_blank">
-      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&color=80B3FF&center=true&vCenter=true&repeat=false&width=490&height=30&lines=Insurance+Claims+Multi-Agent+RAG+(in+development)" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&color=80B3FF&center=true&vCenter=true&repeat=false&width=485&height=30&lines=Insurance+Claims+Multi-Agent+RAG+(in+development)" alt="Typing SVG" />
     </a>
   </div>
   <div align="left" display="inline">
