@@ -4,13 +4,20 @@
 
 I design and ship LLM-based multi-agent systems (OpenAI SDK, LangGraph, LangChain) and backend services in Python/FastAPI following Clean Architecture, with Redis, Docker, and async processing. My focus is production-grade AI systems, reliable and testable, not just working in a demo.
 
+<div>
+    <picture><img width="34" height="34" src="./assets/linkedin-logo.gif"></picture>
+    <a href="https://www.linkedin.com/in/warley-xavier-a8b8811b7/" taget="_blank">
+      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=1000&color=80B3FF&center=true&vCenter=true&repeat=false&width=135&height=30&lines=Let's+connect!" alt="Typing SVG" />
+    </a>
+  </div>
+
 ## Featured Project
 
 <div>
   <div>
-    <img width="34" height="34" src="./assets/rocket.gif">
-    <a href="https://github.com/wrlxavier/fastapi-clean-architecture-api">
-      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&color=9EDDFF&center=true&vCenter=true&repeat=false&width=290&height=30&lines=FastAPI+Clean+Architecture+API" alt="Typing SVG" />
+    <picture><img width="34" height="34" src="./assets/rocket.gif"></picture>
+    <a href="https://github.com/wrlxavier/fastapi-clean-architecture-api" taget="_blank">
+      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&color=80B3FF&center=true&vCenter=true&repeat=false&width=290&height=30&lines=FastAPI+Clean+Architecture+API" alt="Typing SVG" />
     </a>
   </div>
   <div align="left" display="inline">
@@ -24,9 +31,9 @@ I design and ship LLM-based multi-agent systems (OpenAI SDK, LangGraph, LangChai
 
 <div>
   <div>
-    <img width="34" height="34" src="./assets/connection.gif">
-    <a href="https://github.com/wrlxavier/insurance-claims-multiagent-rag">
-      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&color=9EDDFF&center=true&vCenter=true&repeat=false&width=490&height=30&lines=Insurance+Claims+Multi-Agent+RAG+(in+development)" alt="Typing SVG" />
+    <picture><img width="34" height="34" src="./assets/connection.gif"></picture>
+    <a href="https://github.com/wrlxavier/insurance-claims-multiagent-rag" taget="_blank">
+      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&color=80B3FF&center=true&vCenter=true&repeat=false&width=490&height=30&lines=Insurance+Claims+Multi-Agent+RAG+(in+development)" alt="Typing SVG" />
     </a>
   </div>
   <div align="left" display="inline">
@@ -36,5 +43,3 @@ I design and ship LLM-based multi-agent systems (OpenAI SDK, LangGraph, LangChai
   </div>
   <p>A classical RAG system with embeddings + similarity search, built with multi-agent orchestration to complement vector retrieval approaches in production scenarios.</p>
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
