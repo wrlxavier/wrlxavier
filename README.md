@@ -1,6 +1,6 @@
 <h1>Hi, I'm Warley Xavier</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1500&color=38E54D&width=650&height=40&lines=%24+Shipping+LLM-based+multi-agent+systems;%24+LangGraph+%2B+LangChain+%2B+OpenAI+SDK;%24+FastAPI+%2B+Clean+Architecture+%2B+Redis;%24+Production-grade%2C+not+just+a+demo" alt="Rotating tagline: multi-agent systems, LangGraph, LangChain, OpenAI SDK, FastAPI, Clean Architecture, Redis"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1500&color=38E54D&width=650&height=40&lines=%24+Shipping+LLM-based+multi-agent+systems;%24+LangGraph+%2B+LangChain+%2B+OpenAI+SDK;%24+FastAPI+%2B+Clean+Architecture+%2B+Redis;%24+Production-grade%2C+not+just+a+demo" alt="Rotating tagline: multi-agent systems, LangGraph, LangChain, OpenAI SDK, FastAPI, Clean Architecture, Redis"/>
 
 I design and ship LLM-based multi-agent systems (OpenAI SDK, LangGraph, LangChain) and backend services in Python/FastAPI following Clean Architecture, with Redis, Docker, and async processing. My focus is production-grade AI systems, reliable and testable, not just working in a demo.
 
