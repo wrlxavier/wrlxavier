@@ -1,0 +1,40 @@
+name: Metrics
+
+# Triggers: Specifies when this workflow should run
+on:
+  # Schedule automatic execution daily at midnight (UTC)
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows manual execution from the "Actions" tab in GitHub
+  workflow_dispatch:
+  # Optional: Run whenever code is pushed to the main branch
+  push:
+    branches: ["main", "master"]
+
+# Permissions: Grant write access so the action can commit the SVG back to the repository
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          # GitHub Personal Access Token (PAT) stored in Repository Secrets
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Output filename (saved in the root of your repository)
+          filename: metrics.rendered.svg
+
+          # Configured Plugins
+          plugin_languages: yes
+          plugin_languages_details: percentage, bytes-size
+          
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes

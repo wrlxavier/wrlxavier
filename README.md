@@ -12,3 +12,5 @@ I design and ship LLM-based multi-agent systems (OpenAI SDK, LangGraph, LangChai
 Same engineering principles I apply to AI systems, shown here from the pure software-design side: Clean Architecture, PostgreSQL, Docker Compose, Nginx, automated tests.
 
 [LinkedIn](https://www.linkedin.com/in/warley-xavier-a8b8811b7/) · [GitHub](https://github.com/wrlxavier)
+
+![My metrics](./metrics.rendered.svg)
