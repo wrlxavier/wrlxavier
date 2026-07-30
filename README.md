@@ -9,9 +9,7 @@ I design and ship LLM-based multi-agent systems (OpenAI SDK, LangGraph, LangChai
 🔭 **Currently building** a classical [RAG project](https://github.com/wrlxavier/insurance-claims-multiagent-rag) (embeddings + similarity search) to complement the retrieval approach I've shipped professionally.
 
 
-## Featured Project
-
-
+### Featured Project
 
 <h3>
   <img width="30px" height="30px" src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODU0MjQ0MzEsIm5iZiI6MTc4NTQyNDEzMSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzMwVDE1MDg1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxNTNlNGQzMjg0NjYzZDQwNDUxZGQ0NmE3M2JkMTdmMTBkZDEwODM2NGQ0N2UwZDU0MmVmOGM0YmQ1ZmUxODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.85mAA6u5UisP6VhjKakzuXOj9J8HaIKtF6Ee3NYzTY0">
@@ -26,20 +24,6 @@ I design and ship LLM-based multi-agent systems (OpenAI SDK, LangGraph, LangChai
 
 Same engineering principles I apply to AI systems, shown here from the pure software-design side: Clean Architecture, PostgreSQL, Docker Compose, Nginx, automated tests.
 
+### Let's connect!
 
-<!--
-<p>
-  <a href="https://www.linkedin.com/in/warley-xavier-a8b8811b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/wrlxavier"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
--->
-
-<div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,50:1F6FEB,100:0D1117&height=100&section=footer" width="100%"/>
-</div>
-
-
-
-
-
-
+<p><a href="https://www.linkedin.com/in/warley-xavier-a8b8811b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://github.com/wrlxavier" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></p>
