@@ -13,4 +13,15 @@ Same engineering principles I apply to AI systems, shown here from the pure soft
 
 [LinkedIn](https://www.linkedin.com/in/warley-xavier-a8b8811b7/) · [GitHub](https://github.com/wrlxavier)
 
-![My metrics](./metrics.rendered.svg)
+<div align="center">
+
+  ### 📊 Minhas Estatísticas
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wrlxavier&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrlxavier&layout=compact&theme=tokyonight&hide_progress=true"/>
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wrlxavier&theme=tokyonight" />
+
+</div>
