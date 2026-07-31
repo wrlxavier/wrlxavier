@@ -4,8 +4,8 @@
 
 <!--
 <img src="https://raw.githubusercontent.com/lakshyajain1508/lakshyajain1508/refs/heads/main/assets/space-shooter.gif" width="100%">
--->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00E0BA&height=2&section=header" width="100%" />
+-->
 
 <div>
     <h1>
